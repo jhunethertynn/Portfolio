@@ -1,9 +1,7 @@
 # Portfolio
 ---
 ## View Online
-You can access my porfolio directly using this link: [https://ichiwoo.github.io/ichiwoo/
-](https://ichiwoo.github.io/ichiwoo/
-)
+You can access my porfolio directly using this link: https://jhunethertynn.github.io/Portfolio/
 
 ## OR
 ## View Locally
